@@ -25,14 +25,3 @@ const typed = new Typed('#typed', {
 });
 
 
-VANTA.WAVES({
-  el: "#vanta-bg",
-  color: 0x0a1d3a,
-  shininess: 50,
-  waveHeight: 20,
-  waveSpeed: 0.5,
-  zoom: 1.2,
-  backgroundColor: 0x0a1d3a,
-});
-
-
